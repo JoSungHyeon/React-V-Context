@@ -11,5 +11,9 @@ Props는 부모 -> 자식 으로만 데이터를 전달할 수 있었음<br>
 
 React Context => Props Drilling 문제 해결
 
-Context = 데이터 보관소(객체)
+Context => 데이터 보관소(객체)
+
+Context 사용시 최적화가 풀림
+--> Context 분리하기
+
 
